@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ProjectServiceImpl.java&apos; to &apos;build&apos;&#x0D;&#x0A;- Original project: &apos;Proj11-WebLayeredApp-ServerManagedCP&apos;&#x0D;&#x0A;- Destination element: &apos;build&apos;&#x0D;&#x0A;- Original element: &apos;com.nt.service.ProjectServiceImpl.java&apos;" description="Copy compilation unit" element1="/src&lt;com.nt.service{ProjectServiceImpl.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1555697517298" target="/Proj11-WebLayeredApp-ServerManagedCP/build" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+     <hibernate-mapping>
+     	<class name="com.nt.entity.AirtelCallerTune"  table="AIRTEL_CALLERTUNE">
+     		<id  name="custId" column="CUSTID"  length="5">
+     			<generator class="increment"/>
+     		</id>
+     		<version name="updationsTime" column="UPDATIONSTIMES" type="int"/>
+     		<property name="custName" column="CUSTNAME" length="15" type="string"/>
+     		<property name="callerTune" column="CALLERTUNE" length="15" type="string"></property>
+     		<property name="mobile" column="MOBILE" length="10"  type="long"/>
+     		
+     	</class>
+     </hibernate-mapping>

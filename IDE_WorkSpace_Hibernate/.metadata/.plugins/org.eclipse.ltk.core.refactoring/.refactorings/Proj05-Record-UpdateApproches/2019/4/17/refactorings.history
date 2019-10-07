@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.nt.utility&apos; to &apos;Proj12-Annotation-SaveObject&apos;&#x0D;&#x0A;- Original project: &apos;Proj05-Record-UpdateApproches&apos;&#x0D;&#x0A;- Destination element: &apos;Proj12-Annotation-SaveObject&apos;&#x0D;&#x0A;- Original element: &apos;Proj05-Record-UpdateApproches/src/com.nt.utility&apos;" description="Copy package" element1="/src&lt;com.nt.utility" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1555943950192" target="/Proj12-Annotation-SaveObject" version="1.0"/>
+</session>

@@ -1,0 +1,15 @@
+SQL> create table InsurancePolicy(policyID number(5) primary key,policyName varchar2(15),tenure number(10),company varchar2(15),initialAmount number(10));
+
+Table created.
+
+SQL> desc insurancepolicy;
+ Name                                      Null?    Type
+ ----------------------------------------- -------- ----------------------------
+ POLICYID                                  NOT NULL NUMBER(5)
+ POLICYNAME                                         VARCHAR2(15)
+ TENURE                                             NUMBER(10)
+ COMPANY                                            VARCHAR2(15)
+ INITIALAMOUNT                                      NUMBER(10)
+
+ 
+ insert into InsurancePolicy values(101,'sb',200,'lic',15000);

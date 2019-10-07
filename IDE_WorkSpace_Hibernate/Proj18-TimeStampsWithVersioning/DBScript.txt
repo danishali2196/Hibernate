@@ -1,0 +1,1 @@
+ create table Airtel_Callertune_TS1 (custid number(5) primary key,custname varchar2(15),mobile number(10),callertune varchar2(15),subscribeddate timestamp,lastmodified timestamp,updatecount number(5));

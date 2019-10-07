@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.nt.utility&apos; to &apos;Association-OneToOne(fk)-uniDirection/src&apos;&#x0D;&#x0A;- Original project: &apos;AssociationAnno-ManyToMany-SetCollection&apos;&#x0D;&#x0A;- Destination element: &apos;Association-OneToOne(fk)-uniDirection/src&apos;&#x0D;&#x0A;- Original element: &apos;AssociationAnno-ManyToMany-SetCollection/src/com.nt.utility&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=Association-OneToOne\(fk)-uniDirection/src" element1="/src&lt;com.nt.utility" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1563473607458" version="1.0"/>
+</session>

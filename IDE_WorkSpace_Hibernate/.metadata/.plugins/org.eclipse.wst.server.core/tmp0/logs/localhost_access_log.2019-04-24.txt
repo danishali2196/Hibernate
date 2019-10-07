@@ -1,0 +1,14 @@
+127.0.0.1 - - [24/Apr/2019:12:48:58 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:12:49:02 +0530] "GET /Proj11-WebLayeredApp-ServerManagedCP/ HTTP/1.1" 404 1115
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:12:49:04 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:12:49:40 +0530] "GET /Proj11-WebLayeredApp-ServerManagedCP/find_Project.html HTTP/1.1" 404 1132
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:12:49:43 +0530] "GET /Proj11-WebLayeredApp-ServerManagedCP/find_Project.html HTTP/1.1" 404 1132
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:12:50:24 +0530] "GET /Proj11-WebLayeredApp-ServerManagedCP/ HTTP/1.1" 404 1115
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:12:50:31 +0530] "GET /Proj11-WebLayeredApp-ServerManagedCP/find_Project.html HTTP/1.1" 404 1132
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:12:50:32 +0530] "GET /Proj11-WebLayeredApp-ServerManagedCP/find_Project.html HTTP/1.1" 404 1132
+127.0.0.1 - - [24/Apr/2019:12:52:12 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:12:52:20 +0530] "GET /Proj11-WebLayeredApp-ServerManagedCP/ HTTP/1.1" 200 263
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:12:52:20 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:12:52:25 +0530] "POST /Proj11-WebLayeredApp-ServerManagedCP/controller HTTP/1.1" 200 332
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:12:52:28 +0530] "GET /Proj11-WebLayeredApp-ServerManagedCP/find_Project.html HTTP/1.1" 200 263
+0:0:0:0:0:0:0:1 - - [24/Apr/2019:12:52:32 +0530] "POST /Proj11-WebLayeredApp-ServerManagedCP/controller HTTP/1.1" 200 149

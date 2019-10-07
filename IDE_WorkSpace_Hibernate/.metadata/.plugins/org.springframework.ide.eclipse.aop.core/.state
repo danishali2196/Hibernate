@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Proj04-DBTable_DeleteApproches_AutoCreateDB"/>
+<aop-project name="Proj05-Record-UpdateApproches"/>
+</aop-reference-model>

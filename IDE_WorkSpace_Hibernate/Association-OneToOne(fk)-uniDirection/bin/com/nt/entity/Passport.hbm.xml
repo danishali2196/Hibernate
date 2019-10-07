@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Jul 13, 2019 8:03:35 PM by Hibernate Tools 3.5.0.Final -->
+<hibernate-mapping>
+    <class name="com.nt.entity.Passport" table="PASSPORT">
+        <id name="psptNo" type="int">
+            <column name="PSPTNO" />
+            <generator class="sequence">
+           		<param name="sequence_name">pspt_seq</param>
+            </generator>
+        </id>
+        <property name="country" type="string">
+            <column name="COUNTRY" length="15"/>
+        </property>
+        <property name="validFrom" type="date">
+            <column name="VALIDFROM" />
+        </property>
+        <property name="validTo" type="date">
+            <column name="VALIDTO" />
+        </property>
+        <many-to-one name="passportHolder" class="com.nt.entity.Person" cascade="all" lazy="proxy" not-null="true" unique="true">
+            <column name="PASSPORTHOLDER" />
+        </many-to-one>
+    </class>
+</hibernate-mapping>

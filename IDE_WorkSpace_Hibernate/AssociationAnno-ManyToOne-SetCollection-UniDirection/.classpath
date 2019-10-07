@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/jars/lombok-1.18.6.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate-release-5.3.5.Final/hibernate-release-5.3.5.Final/lib/optional/c3p0/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate-release-5.3.5.Final/hibernate-release-5.3.5.Final/lib/optional/c3p0/hibernate-c3p0-5.3.5.Final.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate-release-5.3.5.Final/hibernate-release-5.3.5.Final/lib/optional/c3p0/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/HBLib"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.nt.utility&apos; to &apos;AssociationAnno-ManyToOne-SetCollection-UniDirection/src&apos;&#x0D;&#x0A;- Original project: &apos;AssociationAnno-OneToMany-Uni-ListCollection&apos;&#x0D;&#x0A;- Destination element: &apos;AssociationAnno-ManyToOne-SetCollection-UniDirection/src&apos;&#x0D;&#x0A;- Original element: &apos;AssociationAnno-OneToMany-Uni-ListCollection/src/com.nt.utility&apos;" description="Copy package" destination="=AssociationAnno-ManyToOne-SetCollection-UniDirection/src" element1="/src&lt;com.nt.utility" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1563382292522" version="1.0"/>
+</session>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=Proj11-WebLayeredApp-ServerManagedCP/src&lt;com.nt.dao{ProjectDAO.java[ProjectDAO" modifiers="513" timestamp="1555689223513"/>
+<typeInfo handle="=Proj11-WebLayeredApp-ServerManagedCP/src&lt;com.nt.service{ProjectService.java[ProjectService" modifiers="513" timestamp="1555704799572"/>
+<typeInfo handle="=Proj11-WebLayeredApp-ServerManagedCP/D:\/Apache 9.x\/lib\/servlet-api.jar&lt;javax.servlet(ServletRequestListener.class[ServletRequestListener" modifiers="1537" timestamp="1536099264000"/>
+<typeInfo handle="=Proj11-WebLayeredApp-ServerManagedCP/D:\/Apache 9.x\/lib\/servlet-api.jar&lt;javax.servlet(ServletRequest.class[ServletRequest" modifiers="1537" timestamp="1536099264000"/>
+<typeInfo handle="=AssociationMapping-OneToMany-UniSetColletion/src&lt;com.nt.dao{OneToManyDAO.java[OneToManyDAO" modifiers="513" timestamp="1562611507472"/>
+<typeInfo handle="=Association-ManyToMany-BiDirection-SetCollection/src&lt;com.nt.dao{M2MDAO.java[M2MDAO" modifiers="513" timestamp="1562684231193"/>
+<typeInfo handle="=Association-OneToOne\(fk)-uniDirection/src&lt;com.nt.dao{OTODAO.java[OTODAO" modifiers="513" timestamp="1563035143905"/>
+<typeInfo handle="=AssociationAnno-OneToMany-Uni-SetCollection/src&lt;com.nt.dao{O2MDao.java[O2MDao" modifiers="513" timestamp="1563119808028"/>
+<typeInfo handle="=AssociationAnno-OneToMany-Uni-SetCollection/src&lt;com.nt.entity{Bank.java[Bank" modifiers="1" timestamp="1563286421953"/>
+<typeInfo handle="=AssociationAnno-OneToMany-Uni-SetCollection/src&lt;com.nt.entity{Customer.java[Customer" modifiers="1" timestamp="1563286417156"/>
+<typeInfo handle="=AssociationAnno-ManyToOne-SetCollection-UniDirection/src&lt;com.nt.entity{Department.java[Department" modifiers="1" timestamp="1563383020745"/>
+<typeInfo handle="=AssociationAnno-ManyToOne-SetCollection-UniDirection/src&lt;com.nt.entity{Employee.java[Employee" modifiers="1" timestamp="1563384706034"/>
+<typeInfo handle="=AssociationAnno-ManyToOne-SetCollection-UniDirection/src&lt;com.nt.dao{M2ODao.java[M2ODao" modifiers="513" timestamp="1563383564452"/>
+<typeInfo handle="=AssociationAnno-ManyToMany-SetCollection/src&lt;com.nt.entity{Patient.java[Patient" modifiers="1" timestamp="1563731027977"/>
+<typeInfo handle="=AssociationAnno-ManyToMany-SetCollection/src&lt;com.nt.entity{Doctor.java[Doctor" modifiers="1" timestamp="1563730983354"/>
+<typeInfo handle="=AssociationAnno-ManyToMany-SetCollection/src&lt;com.nt.dao{M2MDao.java[M2MDao" modifiers="513" timestamp="1563562504022"/>
+<typeInfo handle="=Proj11-WebLayeredApp-ServerManagedCP/D:\/Hibernate\/hibernate-search-5.8.0.Final\/dist\/hibernate-search-engine-5.8.0.Final.jar&lt;org.hibernate.search.engine(ProjectionConstants.class[ProjectionConstants" modifiers="1537" timestamp="1505341732000"/>
+<typeInfo handle="=Proj19-CompositeID-IDClass/C:\/Program Files\/Java\/jre1.8.0_131\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1568832136818"/>
+<typeInfo handle="=AssociationMapping-OneToMany-UniSetColletion/D:\/hibernate-release-5.3.5.Final\/hibernate-release-5.3.5.Final\/lib\/optional\/c3p0\/hibernate-c3p0-5.3.5.Final.jar&lt;org.hibernate.c3p0.internal(C3P0ConnectionProvider.class[C3P0ConnectionProvider" modifiers="33" timestamp="1534237226000"/>
+<typeInfo handle="=AssociationMapping-OneToOne\(PK)-LayeredApp/src&lt;com.nt.entity{LibraryMembership.java[LibraryMembership" modifiers="1" timestamp="1563806572286"/>
+<typeInfo handle="=AssociationMapping-OneToOne\(PK)-LayeredApp/src&lt;com.nt.entity{Student.java[Student" modifiers="1" timestamp="1563806676347"/>
+</typeInfoHistroy>

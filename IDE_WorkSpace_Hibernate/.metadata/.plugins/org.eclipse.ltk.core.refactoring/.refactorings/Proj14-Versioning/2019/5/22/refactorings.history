@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.nt.utility&apos; to &apos;HBProj39-HQL-AutoConfiguration-AutoMappingFile/src&apos;&#x0D;&#x0A;- Original project: &apos;Proj14-Versioning&apos;&#x0D;&#x0A;- Destination element: &apos;HBProj39-HQL-AutoConfiguration-AutoMappingFile/src&apos;&#x0D;&#x0A;- Original element: &apos;Proj14-Versioning/src/com.nt.utility&apos;" description="Copy package" destination="=HBProj39-HQL-AutoConfiguration-AutoMappingFile/src" element1="/src&lt;com.nt.utility" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1559061688286" version="1.0"/>
+</session>

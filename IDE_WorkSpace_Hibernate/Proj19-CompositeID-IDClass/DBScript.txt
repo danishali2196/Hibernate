@@ -1,0 +1,7 @@
+ create table Programmer_Project(
+ 				prgmrId number(5),
+ 				prgmrName varchar2(15),
+ 				salary number(10,2),
+ 				projId number(5),
+ 				projName varchar2(15),
+ 				primary key(prgmrId,projId));

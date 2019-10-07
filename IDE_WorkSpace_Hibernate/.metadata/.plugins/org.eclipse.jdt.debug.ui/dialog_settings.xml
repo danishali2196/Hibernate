@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="C:\oraclexe\app\oracle\product\11.2.0\server\jdbc\lib" key="JavaClasspathTab.LAST_PATH_SETTING"/>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=AssociationMapping-OneToMany-UniSetColletion/D:\/Hibernate\/hibernate-search-5.8.0.Final\/dist\/lib\/required\/antlr-2.7.7.jar&amp;lt;antlr.debug.misc(ASTFrame.class[ASTFrame&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=AssociationMapping-OneToMany-UniSetColletion/src&amp;lt;com.nt.test{OneToManyDAOTest.java[OneToManyDAOTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=Association-OneToOne\(fk)-uniDirection/src&amp;lt;com.nt.test{OneToOneTest.java[OneToOneTest&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="391" key="DIALOG_X_ORIGIN"/>
+			<item value="44" key="DIALOG_Y_ORIGIN"/>
+		</section>
+	</section>
+</section>
